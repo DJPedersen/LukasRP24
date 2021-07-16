@@ -11,7 +11,9 @@
 
 ### Sprog & Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![PHP](thttps://img.shields.io/badge/-PHP-333333?style=flat&logo=php)&nbsp;
+![HEML5](thttps://img.shields.io/badge/-html5-333333?style=flat&logo=html5)&nbsp;
+![JavaScript](thttps://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -34,7 +36,7 @@
 - Gaming PC: Normal specs
 - Browser: Opera
 - Code Editor: VSCode - Atom 
-- Stay Updated: [Discord](https://discord.gg/RquDVTfDwu), & [Email](support@dkdevteam.dk)
+- Stay Updated: [Discord](https://discord.gg/Wwy3jwY6qy), & [Email](support@dkdevteam.dk)
 
 ---
 
